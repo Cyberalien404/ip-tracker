@@ -1,7 +1,7 @@
 # ip-tracker
 pkg install git
 
-git clone https://github.com/Cyberalien404/ip-tracker/tree/main
+git clone https://github.com/Cyberalien404/ip-tracker
 
 cd ip tracker
 
